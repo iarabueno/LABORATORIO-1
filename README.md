@@ -1,7 +1,7 @@
 # LABORATORIO-1
 *_Final de LABORATORIO 1 - UNIVERSIDAD DE PALERMO_*
 
-Hola, buenas. Lo más probable es que entraste acá porque tenes que hacer el trabajo practico o debes el final. Si realmemente no queres que te figure error, segui estos pasos:
+Hola, buenas. Lo más probable es que entraste acá porque tenes que hacer el trabajo practico o debes el final. Si realmente no queres que te figure error, segui estos pasos:
 
 _pasos:_
 1. Copia el script para crear las tablas en h2.
