@@ -1,1 +1,1 @@
-Aprobado. No guiarse en la interfaz!
+No guiarse en la interfaz!
